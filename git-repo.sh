@@ -25,6 +25,7 @@ for repo in $repos
       echo "===== Entering the Directory $repo ====="
       cd "./$repo"
       echo "Pulling the Repository from Remote Repository"
+      ls -lah
 
       git pull
       cd "../"
