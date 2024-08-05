@@ -1,6 +1,6 @@
 # Install jq on Windows
 ## Pre requisites:
- * git<https://git-scm.com/download/win>
+ * [git](https://git-scm.com/download/win)
 
 ## Steps
   * Open Power shell
