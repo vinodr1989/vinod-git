@@ -1,5 +1,5 @@
+#!/bin/bash
 # Download Repositories in group
-
 project_dir=workspace # Replace with desired directory name
 
 # Create a Directory to store the files in Group
